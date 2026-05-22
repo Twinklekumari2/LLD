@@ -86,9 +86,6 @@
   <li>To prepare for interviews and development projects</li>
 </ul>
 
-<h2>AUTHOR</h2>
-<h1>Twinkle kumari</h1>
-
 
 <h2>Author</h2>
 
